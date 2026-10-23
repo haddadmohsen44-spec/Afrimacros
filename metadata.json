@@ -1,0 +1,6 @@
+{
+  "name": "AfriMacros: North African Metabolic Diet Architecture",
+  "description": "Local-first metabolic diet architecture and nutritional intelligence system tailored for Algerian and North African cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
